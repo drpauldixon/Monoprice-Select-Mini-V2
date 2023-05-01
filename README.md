@@ -4,6 +4,6 @@
 
 Files / config / notes for using a Monoprice MP Select Mini V2 with Prusa Slicer.
 
-h3.References:
+###.References:
 
  - https://www.youtube.com/watch?v=Wz2Soog4HkQ (Use the new PrusaSlicer 2.3 with ANY 3D Printer!)
